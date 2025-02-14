@@ -1,0 +1,53 @@
+table {
+    margin: 0 auto;
+    border-spacing: 5px;
+}
+
+th, td {
+    background-color: #e2e2e2;
+    width: 150px;
+    padding: 10px;
+
+}
+
+td {
+    text-align: right;
+}
+
+td:first-child {
+    text-align: left;
+}
+
+.tablecell--blue {
+    background-color: rgb(171, 208, 255);
+}
+
+.table__row {
+    display: none;
+}
+
+.table__row--active {
+    display: table-row;
+    transition: 0.5s;
+}
+
+.table__percents--green {
+    padding-left: 15px;
+    color: rgb(3, 134, 3);
+    font-weight: 900;
+}
+
+.table__percents--red {
+    padding-left: 15px;
+    color: rgb(255, 0, 0);
+    font-weight: 900;
+}
+
+.table__cell--green {
+    background-color: rgb(158, 252, 171);
+}
+
+.table__cell--red {
+    background-color: rgb(255, 171, 182);
+}
+
