@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_highchart/static/css/main.c0f6b041.css",
+    "main.js": "/react_highchart/static/js/main.b2fd7e3a.js",
+    "index.html": "/react_highchart/index.html",
+    "main.c0f6b041.css.map": "/react_highchart/static/css/main.c0f6b041.css.map",
+    "main.b2fd7e3a.js.map": "/react_highchart/static/js/main.b2fd7e3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f6b041.css",
+    "static/js/main.b2fd7e3a.js"
+  ]
+}
